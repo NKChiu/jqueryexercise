@@ -1,0 +1,13 @@
+
+{  "rows": [
+	    {
+	        "sid": "1",
+	        "stu_id": "2100104103",
+	        "stu_name": "邱冠彰",
+	        "tea_name": "老師",
+	        "course": "JQuery",
+	        "semester": "1",
+	        "score": "99"
+	    }
+	]
+}
